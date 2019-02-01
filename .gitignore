@@ -40,6 +40,7 @@ Thumbs.db
 
 **/test.ts
 *test.ts
+src/app/server/test.ts
 
 **/wwwroot/app/**/*.map
 **/wwwroot/app/**/*.js
