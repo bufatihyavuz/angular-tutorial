@@ -38,4 +38,8 @@ testem.log
 .DS_Store
 Thumbs.db
 
-src/app/server/test.ts
+**/test.ts
+*test.ts
+
+**/wwwroot/app/**/*.map
+**/wwwroot/app/**/*.js
